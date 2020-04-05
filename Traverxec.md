@@ -161,6 +161,8 @@ $ /usr/bin/sudo /usr/bin/journalctl -n5 -unostromo.service
 
 Al ponerse en marcha este comando nos da la opción a poder ejecutar lo que queramos, pero hemos de añadir un ! a lo que vayamos a ejecutar, en este caso sería:
 
+![image](./img/Traverxec/18-root_whoami.png)
+
 ```sh
 ! cat /root/root.txt
 ```
